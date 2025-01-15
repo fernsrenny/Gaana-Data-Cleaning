@@ -48,7 +48,7 @@ The notebook follows these steps:
 
 ## Example Use Case
 
-- This project is ideal for:
+This project is ideal for:
 
 - Learning the data cleaning process.
 
